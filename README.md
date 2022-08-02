@@ -10,8 +10,7 @@
 - ⚡ Fun fact: I started coding in grad school working to bottle the the [information used by bugs contained in the smells of plants, and how noisy caterpillar smell-o-vision is.](https://doi.org/10.1093/biosci/biv062) 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h6> Languages </h6>
+<h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
