@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a variety of data-focused (R, shiny, tidyverse) in the climate and environment sphere with [Virga Labs](www.virgalabs.io)
 - 🌱 I’m currently learning Javascript, Svelte and deepening the HTML/CSS bench! 
 - 📫 How to reach me: keatonwilson@me.com
-- ⚡ Fun fact: I started coding in grad school working to bottle the the [information used by bugs contained in the smells of plants, and how noisy caterpillar smell-o-vision is.](https://doi.org/10.1093/biosci/biv062) 
+- ⚡ Fun fact: I started coding in grad school working to bottle the the [information used by bugs contained in the smells of plants, and how noisy caterpillar smell-o-vision is.](https://doi.org/10.1093/biosci/biv062](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao) 
 
 
 <h3 align="left">Languages</h3>
