@@ -4,8 +4,8 @@
 
  ### What I'm doing: 
  
-- 🔭 I’m currently working on a variety of data-focused projects (R, shiny, tidyverse) in the climate and environment sphere with [Virga Labs](https://www.virgalabs.io)
-- 🌱 I’m currently learning Javascript, Svelte and deepening the HTML/CSS bench! 
+- 🔭 I’m currently working on a variety of data-focused projects (R, shiny, tidyverse) as a Solutions Developer at [KS&R](https://www.ksrinc.com)
+- 🌱 I’m currently learning Javascript, Svelte and deepening the HTML/CSS bench and diving into Text Analysis and NLP 
 - 📫 How to reach me: keatonwilson@me.com
 - ⚡ Fun fact: I started coding in grad school working to bottle the the [information used by bugs contained in the smells of plants, and how noisy caterpillar smell-o-vision is.](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao) 
 
@@ -32,7 +32,7 @@
 -----
 Credits: [Keaton Wilson](https://github.com/keatonwilson)
 
-Last Edited on: 2022-08-01
+Last Edited on: 2023-02-28
 
 
 
