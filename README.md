@@ -24,6 +24,7 @@
 
 ### Stats
 ![Test Stats](https://myreadme.vercel.app/api/embed/keatonwilson?panels=userstatistics,toplanguages,commitgraph)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keatonwilson&theme=shadow-brown" alt="mystreak"/>
  
 ### Reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keatonwilson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://dev.to/keatonwilson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/keatonwilson/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/keatonwilson)  
