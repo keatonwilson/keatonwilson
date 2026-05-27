@@ -1,32 +1,58 @@
-## Hi there 👋, I'm Keaton Wilson!
-#### Data Scientist, Visualization Specialist & Aspiring Frontend Person
+# Keaton Wilson
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=23272F&width=480&lines=Solutions+Developer;Data+Scientist;AI+Engineer" alt="Typing SVG" />
+</p>
 
- ### What I'm doing: 
- 
-- 🔭 I’m currently working on a variety of data-focused projects (R, shiny, tidyverse) as a Solutions Developer at [KS&R](https://www.ksrinc.com)
-- 🌱 I’m currently learning Javascript, Svelte and deepening the HTML/CSS bench and diving into Shiny for Python.
-- 📫 How to reach me: keatonwilson@me.com
-- ⚡ Fun fact: I started coding in grad school working to bottle the the [information used by bugs contained in the smells of plants, and how noisy caterpillar smell-o-vision is.](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao) 
+Tucson, AZ &nbsp;·&nbsp; [keatonwilson@me.com](mailto:keatonwilson@me.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/keatonwilson/) &nbsp;·&nbsp; [Twitter](https://twitter.com/keatonwilson) &nbsp;·&nbsp; [Scholar](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao)
 
+---
 
-<h3 align="left">Languages</h3>
-<p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://svelte.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+I build data-driven products that connect analysis to real decisions — from Shiny dashboards and interactive visualizations to LLM-powered pipelines and agentic workflows. Background in ecology and environmental science; now applying the same instinct for finding signal in noise to software and AI.
 
+---
 
-### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keatonwilson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://dev.to/keatonwilson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/keatonwilson/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/keatonwilson) 
- 
------
-Credits: [Keaton Wilson](https://github.com/keatonwilson)
+## What I Do
 
-Last Edited on: 2024-09-04
+- **Solutions Development** — End-to-end data products, dashboards, and tooling at the intersection of research and business
+- **Data Science** — Statistical modeling, machine learning, and deep expertise in R and Python
+- **AI Engineering** — Building with the Anthropic/Claude API, LangChain orchestration, RAG pipelines, and agentic workflows
 
+---
 
+## Featured Projects
 
+**[cartoTaco](https://github.com/keatonwilson/cartoTaco)** &nbsp;·&nbsp; `SvelteKit` `Supabase` `Mapbox` `Tailwind`
+
+Full-stack interactive map app for exploring Tucson’s taco scene — marker clustering, multi-stop route planning, k-NN taste recommendations, spot comparison mode, and user auth.
+
+<br/>
+
+**[cartoTacoMenuExtract](https://github.com/keatonwilson/cartoTacoMenuExtract)** &nbsp;·&nbsp; `Python` `Claude Vision` `Streamlit` `Supabase`
+
+AI-powered admin pipeline that extracts structured menu data from restaurant photos using Claude Vision, with a staging review UI and direct promotion to the production database.
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=r,py,js,svelte,html,css,docker,postgres,git&theme=light" />
+</p>
+
+**Data & AI**
+
+![Shiny](https://img.shields.io/badge/Shiny-4AA4DE?style=flat-square&logo=rstudio&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=r&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+
+---
+
+## Origin Story
+
+Started coding in grad school to model how insects decode plant volatile signals — essentially reverse-engineering nature's data pipelines. That same drive to find signal in noise and build systems around it is what I bring to data science and AI engineering today.
+
+---
+
+*Currently at [KS&R](https://www.ksrinc.com)*
