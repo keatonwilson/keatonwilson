@@ -1,32 +1,65 @@
-## Hi there 👋, I'm Keaton Wilson!
-#### Data Scientist, Visualization Specialist & Aspiring Frontend Person
+# Keaton Wilson
 
+**Solutions Developer · Data Scientist · AI Engineer**
 
- ### What I'm doing: 
- 
-- 🔭 I’m currently working on a variety of data-focused projects (R, shiny, tidyverse) as a Solutions Developer at [KS&R](https://www.ksrinc.com)
-- 🌱 I’m currently learning Javascript, Svelte and deepening the HTML/CSS bench and diving into Shiny for Python.
-- 📫 How to reach me: keatonwilson@me.com
-- ⚡ Fun fact: I started coding in grad school working to bottle the the [information used by bugs contained in the smells of plants, and how noisy caterpillar smell-o-vision is.](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao) 
+Tucson, AZ &nbsp;·&nbsp; [keatonwilson@me.com](mailto:keatonwilson@me.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/keatonwilson/) &nbsp;·&nbsp; [Twitter](https://twitter.com/keatonwilson) &nbsp;·&nbsp; [Scholar](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao)
 
+> 🟢 Open to new opportunities
 
-<h3 align="left">Languages</h3>
-<p align="left"> <a href="https://www.rstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="r" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://svelte.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+---
 
+I build data-driven products that connect analysis to real decisions — from Shiny dashboards and interactive visualizations to LLM-powered pipelines and agentic workflows. Background in ecology and environmental science; now applying the same instinct for finding signal in noise to software and AI.
 
-### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/keatonwilson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://dev.to/keatonwilson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/keatonwilson/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/keatonwilson) 
- 
------
-Credits: [Keaton Wilson](https://github.com/keatonwilson)
+---
 
-Last Edited on: 2024-09-04
+## What I Do
 
+- **Solutions Development** — End-to-end data products, dashboards, and tooling at the intersection of research and business
+- **Data Science** — Statistical modeling, machine learning, and deep expertise in R and Python
+- **AI Engineering** — Building with the Anthropic/Claude API, LangChain orchestration, RAG pipelines, and agentic workflows
 
+---
 
+## Tech Stack
+
+**Languages**
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & AI**
+
+![Shiny](https://img.shields.io/badge/Shiny-4AA4DE?style=flat-square&logo=rstudio&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=r&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=keatonwilson&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="155"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatonwilson&layout=compact&theme=default&hide_border=true&langs_count=6" height="155"/>
+</p>
+
+---
+
+## Origin Story
+
+Started coding in grad school to model how insects decode plant volatile signals — essentially reverse-engineering nature's data pipelines. That same drive to find signal in noise and build systems around it is what I bring to data science and AI engineering today.
+
+---
+
+*Currently at [KS&R](https://www.ksrinc.com) &nbsp;·&nbsp; Open to remote opportunities*
