@@ -20,6 +20,20 @@ I build data-driven products that connect analysis to real decisions — from Sh
 
 ---
 
+## Featured Projects
+
+**[cartoTaco](https://github.com/keatonwilson/cartoTaco)** &nbsp;·&nbsp; `SvelteKit` `Supabase` `Mapbox` `Tailwind`
+
+Full-stack interactive map app for exploring Tucson’s taco scene — marker clustering, multi-stop route planning, k-NN taste recommendations, spot comparison mode, and user auth.
+
+<br/>
+
+**[cartoTacoMenuExtract](https://github.com/keatonwilson/cartoTacoMenuExtract)** &nbsp;·&nbsp; `Python` `Claude Vision` `Streamlit` `Supabase`
+
+AI-powered admin pipeline that extracts structured menu data from restaurant photos using Claude Vision, with a staging review UI and direct promotion to the production database.
+
+---
+
 ## Tech Stack
 
 <p>
@@ -32,12 +46,6 @@ I build data-driven products that connect analysis to real decisions — from Sh
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=r&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-
----
-
-## Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keatonwilson&theme=minimal&hide_border=true&area=true" />
 
 ---
 
