@@ -4,8 +4,6 @@
 
 Tucson, AZ &nbsp;·&nbsp; [keatonwilson@me.com](mailto:keatonwilson@me.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/keatonwilson/) &nbsp;·&nbsp; [Twitter](https://twitter.com/keatonwilson) &nbsp;·&nbsp; [Scholar](https://scholar.google.com/citations?user=qL_0eqAAAAAJ&hl=en&oi=ao)
 
-> 🟢 Open to new opportunities
-
 ---
 
 I build data-driven products that connect analysis to real decisions — from Shiny dashboards and interactive visualizations to LLM-powered pipelines and agentic workflows. Background in ecology and environmental science; now applying the same instinct for finding signal in noise to software and AI.
@@ -46,20 +44,10 @@ I build data-driven products that connect analysis to real decisions — from Sh
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keatonwilson&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keatonwilson&layout=compact&theme=default&hide_border=true&langs_count=6" height="155"/>
-</p>
-
----
-
 ## Origin Story
 
 Started coding in grad school to model how insects decode plant volatile signals — essentially reverse-engineering nature's data pipelines. That same drive to find signal in noise and build systems around it is what I bring to data science and AI engineering today.
 
 ---
 
-*Currently at [KS&R](https://www.ksrinc.com) &nbsp;·&nbsp; Open to remote opportunities*
+*Currently at [KS&R](https://www.ksrinc.com)*
